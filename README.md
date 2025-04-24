@@ -14,3 +14,9 @@ Mensagens de Erro customizadas:
  ProdutoInsuficienteError: Quando não existe produtos suficientes face a quantidade desejada.
 
  CarrinhoVazioError: Quando o carrinho está vazio.
+
+Outras exceções de Erro:
+
+ValueError: Ocorre quando uma recebe um argumento do tipo correto, mas com um valor incorreto ou inadequado.
+
+TypeError: Ocorre quando o argumento é do tipo errado. 
